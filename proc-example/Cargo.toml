@@ -1,0 +1,8 @@
+[package]
+name = "proc-example"
+version = "0.1.0"
+authors = ["Yuhao Fang <fangyuhao@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+proc-upload = { path = "../proc-upload" }
